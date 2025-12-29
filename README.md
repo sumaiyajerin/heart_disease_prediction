@@ -39,7 +39,7 @@ Access at: http://localhost:8501
 
 ### Live Demo
 
-Visit: https://heart-disease-prediction-8xvkhtm6gtou53geq43ifc.streamlit.app/
+Visit: https://heartdiseaseprediction-jerin.streamlit.app/
 
 ## 📋 Input Parameters (13 Features)
 
@@ -101,7 +101,7 @@ Always consult with a qualified healthcare professional.
 
 ## 👨‍💻 Developer
 
-**Md Hasibul Hasan**
+**Jerin Papri Mithila**
 - Green University of Bangladesh
 - Computer Science & Engineering (Final Year)
 
